@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: img-app-Deployment
+        image: img-app-deployment
         ports:
         - containerPort: 80
         
